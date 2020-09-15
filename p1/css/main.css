@@ -1,11 +1,20 @@
-body {background-color: yellow;}
+body{
+    background-image: url(../image/powerline.jpg);
+    padding: 200px
+    margin: 100px
+    background-repeat: repeat-x;
+}
 h1 {
-  font-size: 90
-  color: blue;
+    font-size: 45px;
+    color: #79441b;
+  text-transform:uppercase;
 }
 h2 {
+    font-size: 28px;
+    color: #512f16;
 
 }
 p {
-
+    font-size: 55px;
+    color: #79441b;
 }
