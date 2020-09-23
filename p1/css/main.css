@@ -6,15 +6,33 @@ body{
 }
 h1 {
     font-size: 45px;
+    font-family: cursive; Bradley Hand
     color: #79441b;
   text-transform:uppercase;
 }
 h2 {
     font-size: 28px;
+    font-family: cursive; Bradley Hand
     color: #512f16;
 
 }
 p {
     font-size: 55px;
+    font-family: cursive; Bradley Hand
     color: #79441b;
+}
+a {
+  text-decoration: none;
+}
+a:link {
+  color: #696969;
+}
+a:visited {
+  color: #696969;
+}
+a:hover {
+  color: #daa520;
+}
+a:active {
+  color: #daa520;
 }
