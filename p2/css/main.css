@@ -1,0 +1,37 @@
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+body {
+  font-family:'Sansita', sans-serif;
+  margin: 35px
+  padding: 50px
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+li {
+  float: right;
+  display: inline;
+}
+li a {
+  display: block;
+  padding: 8px;
+}
+h1{
+  color: #9A3812;
+  text-align: center;
+}
+p{
+  text-align: center;
+  color: #9A3812;
+  font-weight:;
+}
+h2, h3 {
+  text-align: center;
+  color: #9A3812;
+  font-weight: bold;
+}
