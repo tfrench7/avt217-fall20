@@ -23,7 +23,7 @@ body {
 .layout {
 width: 800px;
 display: flow-root;
-margin: 45px auto 0;
+margin: 50px auto 0;
 }
 .header, .thin, .colum {
   background-color: blue;
